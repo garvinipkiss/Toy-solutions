@@ -1,0 +1,1 @@
+This solution is able to list multiples of 3 and 5 using a list comprehension combined with the lambda function that checks if a number is a valid multiple, and sums the resulted lists.
